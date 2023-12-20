@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios">
-      <change beforePath="$PROJECT_DIR$/numbers/numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/grains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +30,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EseRuiz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EseRuiz&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -60,6 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
@@ -68,38 +72,12 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rama2",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne">
-    <configuration name="DifferenceOfSquaresCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DifferenceOfSquaresCalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DifferenceOfSquaresCalculatorTest" />
-      <option name="METHOD_NAME" value="testSquareOfSumUpToOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne" />
-        <item itemvalue="JUnit.DifferenceOfSquaresCalculatorTest" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
