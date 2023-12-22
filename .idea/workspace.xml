@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios numbers">
-      <change afterPath="$PROJECT_DIR$/if_else_statement/src/Bob.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/if_else_statement/src/BobTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +63,9 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.BobTest.executor": "Run",
+    "JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor": "Run",
+    "JUnit.BobTest.otherWhiteSpace.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
     "Repository.Attach.Annotations": "false",
@@ -72,12 +73,40 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rama2",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.BobTest.otherWhiteSpace">
+    <configuration name="BobTest.nonQuestionEndingWithWhiteSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BobTest" />
+      <option name="METHOD_NAME" value="nonQuestionEndingWithWhiteSpace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BobTest.otherWhiteSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BobTest" />
+      <option name="METHOD_NAME" value="otherWhiteSpace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BobTest.otherWhiteSpace" />
+        <item itemvalue="JUnit.BobTest.nonQuestionEndingWithWhiteSpace" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
