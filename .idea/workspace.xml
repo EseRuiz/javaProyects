@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios">
-      <change afterPath="$PROJECT_DIR$/numbers/src/grains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios numbers">
+      <change afterPath="$PROJECT_DIR$/if_else_statement/src/Bob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_else_statement/src/BobTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama2",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
@@ -118,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703109717827</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="se agregan ejercicios numbers">
+      <option name="closed" value="true" />
+      <created>1703115732398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703115732399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="se agregan ejercicios numbers">
+      <option name="closed" value="true" />
+      <created>1703115845633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703115845633</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,17 +145,17 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="origin/master" />
                 </option>
               </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="HEAD" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
                 </option>
               </RecentGroup>
             </list>
@@ -157,7 +173,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="rama1" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -171,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="se agregan ejercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agregan ejercicios" />
+    <MESSAGE value="se agregan ejercicios numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agregan ejercicios numbers" />
   </component>
 </project>
