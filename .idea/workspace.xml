@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios numbers">
-      <change afterPath="$PROJECT_DIR$/if_else_statement/src/BobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/ArmstrongNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/TestArmstrongNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/if_else_statement/BobTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/if_else_statement/BobTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/numbers/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,23 +67,25 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.ArmstrongNumbersTest.executor": "Run",
     "JUnit.BobTest.executor": "Run",
     "JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor": "Run",
     "JUnit.BobTest.otherWhiteSpace.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.TestArmstrongNumbers.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama3",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.BobTest.otherWhiteSpace">
+  <component name="RunManager">
     <configuration name="BobTest.nonQuestionEndingWithWhiteSpace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="if_else_statement" />
       <option name="PACKAGE_NAME" value="" />
