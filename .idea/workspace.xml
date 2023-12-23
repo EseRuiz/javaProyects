@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios numbers">
-      <change afterPath="$PROJECT_DIR$/numbers/src/ArmstrongNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/TestArmstrongNumbers.java" afterDir="false" />
+    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios cambios">
+      <change afterPath="$PROJECT_DIR$/if_else_statement/src/Darts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if_else_statement/src/DartsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/if_else_statement/BobTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/if_else_statement/BobTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/numbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/numbers/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,28 +60,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;JUnit.ArmstrongNumbersTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.otherWhiteSpace.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DifferenceOfSquaresCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestArmstrongNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama3&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.ArmstrongNumbersTest.executor": "Run",
+    "JUnit.BobTest.executor": "Run",
+    "JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor": "Run",
+    "JUnit.BobTest.otherWhiteSpace.executor": "Run",
+    "JUnit.DartsTest.executor": "Run",
+    "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
+    "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
+    "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.TestArmstrongNumbers.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -141,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703115845633</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="se agregan ejercicios cambios">
+      <option name="closed" value="true" />
+      <created>1703258926497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703258926497</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +202,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="se agregan ejercicios" />
     <MESSAGE value="se agregan ejercicios numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agregan ejercicios numbers" />
+    <MESSAGE value="se agregan ejercicios cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="se agregan ejercicios cambios" />
   </component>
 </project>
