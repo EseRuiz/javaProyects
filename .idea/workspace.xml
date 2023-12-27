@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios cambios">
-      <change afterPath="$PROJECT_DIR$/if_else_statement/src/Darts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_else_statement/src/DartsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/PopCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/PopCountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/numbers/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +75,14 @@
     "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.PopCountTest.executor": "Run",
     "JUnit.TestArmstrongNumbers.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama-numbers",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"

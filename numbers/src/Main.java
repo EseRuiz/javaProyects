@@ -1,9 +1,8 @@
 import java.math.BigInteger;
 
-public class Main {
+public class Main {//00001
     public static void main(String[] args) {
-        ArmstrongNumbers arm = new ArmstrongNumbers();
-        boolean resArm = arm.isArmstrongNumber(153);
-        System.out.println(resArm);
+        PopCount pop = new PopCount ();
+        int var = pop.eggCount(89);
     }
 }
