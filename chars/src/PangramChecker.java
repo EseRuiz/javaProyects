@@ -4,7 +4,6 @@ import java.util.Set;
 public class PangramChecker {
 
     public boolean isPangram(String input) {
-        char[] abe =  {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'} ;
         String ct = input.replaceAll("[^a-zA-Z]", "").toUpperCase().replaceAll("\\s", "");
         Set<Character> letrasUnicas = new HashSet<>();
         for (int i = 0; i < ct.length(); i++) {
