@@ -22,5 +22,7 @@ public class Main {
         SqueakyClean test = new SqueakyClean();
         testCl = test.clean("a1\uD83D\uDE002\uD83D\uDE003\uD83D\uDE00b");
         System.out.println(testCl);
+        PangramChecker pam = new PangramChecker() ;
+        boolean probe = pam.isPangram("the 1 quick brown fox jumps over the 2 lazy dogs");
     }
 }

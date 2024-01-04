@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios cambios">
-      <change afterPath="$PROJECT_DIR$/numbers/src/PopCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/PopCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/src/PangramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/src/PangramCheckerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers/numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/numbers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/numbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/numbers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/chars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chars/chars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/chars/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/src/PopCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/src/PopCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/numbers/PopCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/numbers/PopCount.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,8 @@
     "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.PangramCheckerTest.executor": "Run",
+    "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
     "JUnit.PopCountTest.executor": "Run",
     "JUnit.TestArmstrongNumbers.executor": "Run",
     "Repository.Attach.Annotations": "false",
@@ -82,12 +85,29 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "rama-numbers",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PangramCheckerTest" />
+      <option name="METHOD_NAME" value="perfectLowerCasePhraseIsPangram" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
