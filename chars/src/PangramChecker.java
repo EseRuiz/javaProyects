@@ -7,12 +7,10 @@ public class PangramChecker {
         String ct = input.replaceAll("[^a-zA-Z]", "").toUpperCase().replaceAll("\\s", "");
         Set<Character> letrasUnicas = new HashSet<>();
         for (int i = 0; i < ct.length(); i++) {
-            char castCt = ct.charAt(i);
-            letrasUnicas.add(castCt);
+            letrasUnicas.add(ct.charAt(i));
         }
 
         if (letrasUnicas.size() == 26 ){
-            System.out.println("true");
             return true ;
         }else {return false ;}
     }
