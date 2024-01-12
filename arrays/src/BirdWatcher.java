@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 class BirdWatcher {
     private final int[] birdsPerDay;
-
+//constructor
     public BirdWatcher(int[] birdsPerDay) {
         this.birdsPerDay = birdsPerDay.clone();
     }
@@ -17,7 +17,8 @@ class BirdWatcher {
         return this.birdsPerDay[6] ;
     }
 
-    public void incrementTodaysCount() {
+    public void incrementTodaysCount() {//una clase puede tener metodos void que solo almacenan variables o funciones sin retornar nada
+        //pero que al ser llamadas ejecutan su funcion
         this.birdsPerDay[6]++;
     }
 
