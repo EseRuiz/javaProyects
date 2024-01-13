@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios cambios">
-      <change afterPath="$PROJECT_DIR$/arrays/arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/src/BirdWatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanguageList/LanguageList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanguageList/src/LanguageList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -85,11 +84,12 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "LanguageList",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/arrays/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/LanguageList/src/Main.java",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
@@ -174,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703258926497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="no se">
+      <option name="closed" value="true" />
+      <created>1705099003154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705099003154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +237,8 @@
     <MESSAGE value="se agregan ejercicios" />
     <MESSAGE value="se agregan ejercicios numbers" />
     <MESSAGE value="se agregan ejercicios cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="se agregan ejercicios cambios" />
+    <MESSAGE value="no se" />
+    <option name="LAST_COMMIT_MESSAGE" value="no se" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
