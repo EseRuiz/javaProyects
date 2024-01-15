@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="no se">
       <change afterPath="$PROJECT_DIR$/NeedForSpeed/NeedForSpeed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeedForSpeed/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NeedForSpeed/src/NeedForSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NeedForSpeed/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NeedForSpeed/NeedForSpeed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/NeedForSpeed/RaceTrack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/javaProyects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaProyects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
