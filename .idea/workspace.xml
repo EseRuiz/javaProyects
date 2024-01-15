@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="se agregan ejercicios cambios">
-      <change afterPath="$PROJECT_DIR$/LanguageList/LanguageList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanguageList/src/LanguageList.java" afterDir="false" />
+    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="no se">
+      <change afterPath="$PROJECT_DIR$/NeedForSpeed/NeedForSpeed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NeedForSpeed/src/NeedForSpeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaProyects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaProyects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chars/PangramChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chars/PangramChecker.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +87,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "LanguageList",
+    "git-widget-placeholder": "rama__NeedForSpeed",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/LanguageList/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/NeedForSpeed/src/Main.java",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
