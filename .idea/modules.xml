@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/booleans/booleans.iml" filepath="$PROJECT_DIR$/booleans/booleans.iml" />
       <module fileurl="file://$PROJECT_DIR$/chars/chars.iml" filepath="$PROJECT_DIR$/chars/chars.iml" />
       <module fileurl="file://$PROJECT_DIR$/if_else_statement/if_else_statement.iml" filepath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaProyects.iml" filepath="$PROJECT_DIR$/.idea/javaProyects.iml" />
       <module fileurl="file://$PROJECT_DIR$/numbers/numbers.iml" filepath="$PROJECT_DIR$/numbers/numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
