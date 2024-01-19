@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="no se">
-      <change afterPath="$PROJECT_DIR$/interfaces/interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/src/ExperimentalRemoteControlCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/src/ProductionRemoteControlCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/src/RemoteControlCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/src/TestTrack.java" afterDir="false" />
+    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <change afterPath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalaryCalculator/src/SalaryCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -88,11 +85,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama__learning",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/interfaces/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/SalaryCalculator/src/Main.java",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
@@ -193,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705362367451</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <option name="closed" value="true" />
+      <created>1705529290002</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705529290002</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +254,8 @@
     <MESSAGE value="se agregan ejercicios numbers" />
     <MESSAGE value="se agregan ejercicios cambios" />
     <MESSAGE value="no se" />
-    <option name="LAST_COMMIT_MESSAGE" value="no se" />
+    <MESSAGE value="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
