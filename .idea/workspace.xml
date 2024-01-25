@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/Lists/Lists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ResistorColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ResistorColorDuo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ResistorColorDuoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ResistorColorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ResistorColorTrio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ResistorColorTrioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +89,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "rama__lists",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
