@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/Learning/src/CalculatorConundrum.java" afterDir="false" />
-  </list>
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,45 +58,45 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;JUnit.ArmstrongNumbersTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.otherWhiteSpace.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DartsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DartsTest.onTheOuterCircle.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.DifferenceOfSquaresCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PangramCheckerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PopCountTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorDuoTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.testBlackColorCode.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.testColors.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.testWhiteColorCode.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTrioTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SpaceAgeTest.ageOnSaturn.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.SpaceAgeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestArmstrongNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.ResistorColorTest.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;rama__learning&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Stephen/IdeaProjects/javaProyects/Learning/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.ArmstrongNumbersTest.executor": "Run",
+    "JUnit.BobTest.executor": "Run",
+    "JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor": "Run",
+    "JUnit.BobTest.otherWhiteSpace.executor": "Run",
+    "JUnit.DartsTest.executor": "Run",
+    "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
+    "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
+    "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.PangramCheckerTest.executor": "Run",
+    "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
+    "JUnit.PopCountTest.executor": "Run",
+    "JUnit.ResistorColorDuoTest.executor": "Run",
+    "JUnit.ResistorColorTest.executor": "Run",
+    "JUnit.ResistorColorTest.testBlackColorCode.executor": "Run",
+    "JUnit.ResistorColorTest.testColors.executor": "Run",
+    "JUnit.ResistorColorTest.testWhiteColorCode.executor": "Run",
+    "JUnit.ResistorColorTrioTest.executor": "Run",
+    "JUnit.SpaceAgeTest.ageOnSaturn.executor": "Debug",
+    "JUnit.SpaceAgeTest.executor": "Run",
+    "JUnit.TestArmstrongNumbers.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ResistorColorTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/Learning/src/Main.java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chars" />
