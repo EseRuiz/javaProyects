@@ -17,10 +17,10 @@ class CalculatorConundrum {
             if (operation.equals("/")){
                 res = operand1 / operand2 ;
             }
-            else{throw new IllegalOperationException(String.format("Operation '%s' does not exist", operation));}
+         //   else{throw new IllegalOperationException(String.format("Operation '%s' does not exist", operation));}
             }
         catch (ArithmeticException  e) {
-            throw new IllegalOperationException("Division by zero is not allowed", e);
+        //    throw new IllegalOperationException("Division by zero is not allowed", e);
         }
         return  operand1 +" "+ operation + " " + operand2 + " = " + res ;
     }
