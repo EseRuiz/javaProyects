@@ -1,16 +1,11 @@
+import java.time.LocalDateTime;
 
 public class Main {
     public static void main(String[] args) {
-        Warrior fi = new Warrior() ;
-        Wizard wi = new Wizard() ;
-        System.out.println(wi.isVulnerable());
-        System.out.println(fi.damagePoints(wi));
-
-        // Aquí puedes probar el método prepareSpell
-        wi.prepareSpell();
-        System.out.println(wi.isVulnerable());
-
-        // Llamar de nuevo al método damagePoints después de preparar el hechizo
-        System.out.println(fi.damagePoints(wi));
+        AppointmentScheduler hour = new AppointmentScheduler();
+        boolean after = hour.isAfternoonAppointment(LocalDateTime.of(2019, 03, 29, 8, 0, 0));
+        System.out.println(after);
+        String cita = hour.getDescription(LocalDateTime.of(2019, 03, 29, 15, 0, 0));
+        System.out.println("cita = " + cita);
     }
 }
