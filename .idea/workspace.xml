@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/Learning/src/CaptainsLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/src/testColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/Destination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/GameMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/Secrets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/src/TravelMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Learning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/CaptainsLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/CaptainsLog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Learning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +105,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram">
     <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chars" />
       <option name="PACKAGE_NAME" value="" />
