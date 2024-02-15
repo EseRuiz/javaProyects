@@ -8,5 +8,7 @@ public class Main {
         System.out.println(cap.randomPlanetClass());
         System.out.println(cap.randomShipRegistryNumber());
         System.out.println(cap.randomStardate());
+        char num = 0b0110 | 0b0101;
+        System.out.println(num);
     }
 }
