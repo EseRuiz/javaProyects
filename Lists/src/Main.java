@@ -4,13 +4,13 @@ import java.util.Arrays;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        ResistorColor res = new ResistorColor();
-        int val = res.colorCode("black");
-        System.out.println(val);
-        String colors = Arrays.toString(res.colors());
-        System.out.println("colors = " + colors);
-        ResistorColorDuo res2 = new ResistorColorDuo();
-        int val2 = res2.value(new String[]{ "orange", "orange" });
-        System.out.println(val2);
+        HighScores scor = new HighScores(Arrays.asList(70, 50, 20, 30));
+        //System.out.println(scor.latest());
+        //System.out.println(scor.personalBest());
+        scor.personalTopThree();
+        System.out.println(scor.personalTopThree());
+        scor.scores();
+        System.out.println(scor.scores());
+        System.out.println(scor.latest());
     }
 }
