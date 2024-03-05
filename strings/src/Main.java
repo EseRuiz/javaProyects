@@ -10,14 +10,8 @@ class MicroBlog {
 
 public class Main {
     public static void main(String[] args) {
-        String valueMicro;
-        String valueLogs;
-        MicroBlog micro = new MicroBlog();
-        LogLevels log = new LogLevels();
-        valueMicro = micro.truncate("test probe");
-        System.out.println("valueMicro = " + valueMicro);
-        valueLogs = log.message("mes:sage");
-        System.out.println("log = " + valueLogs);
+        Hamming hamin = new Hamming("G", "");
+        System.out.println(hamin.getHammingDistance());
 
     }
 }

@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/strings/src/RnaTranscription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/src/RnaTranscriptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/Hamming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/HammingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaProyects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/javaProyects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ElonsToyCar/ElonsToyCar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ElonsToyCar/ElonsToyCar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LanguageList/LanguageList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LanguageList/LanguageList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/Lists.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/Lists.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeedForSpeed/NeedForSpeed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NeedForSpeed/NeedForSpeed.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booleans/booleans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/booleans/booleans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/chars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chars/chars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/if_else_statement/if_else_statement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/interfaces.iml" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/interfaces.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numbers/numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/numbers/numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/strings/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/strings/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/strings/strings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/strings/strings.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +89,7 @@
     "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.HammingTest.executor": "Run",
     "JUnit.HighScoresTest.executor": "Run",
     "JUnit.PangramCheckerTest.executor": "Run",
     "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
@@ -100,7 +116,10 @@
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/Learning/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="RunManager">
