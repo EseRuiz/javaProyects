@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/Lists/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/AnagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/DnDCharacterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/dndCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,9 @@
     "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
     "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
     "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.DnDCharacterTest.executor": "Run",
+    "JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores.executor": "Run",
+    "JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor": "Run",
     "JUnit.PangramCheckerTest.executor": "Run",
     "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
     "JUnit.PopCountTest.executor": "Run",
@@ -101,11 +104,21 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="PangramCheckerTest.perfectLowerCasePhraseIsPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chars" />
+    <configuration name="DnDCharacterTest.test4DiceWereUsedForRollingScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PangramCheckerTest" />
-      <option name="METHOD_NAME" value="perfectLowerCasePhraseIsPangram" />
+      <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
+      <option name="METHOD_NAME" value="test4DiceWereUsedForRollingScores" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
+      <option name="METHOD_NAME" value="testEachAbilityIsOnlyCalculatedOnce" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores" />
+        <item itemvalue="JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" />
         <item itemvalue="JUnit.ResistorColorTest.testColors" />
         <item itemvalue="JUnit.ResistorColorTest.testWhiteColorCode" />
         <item itemvalue="JUnit.ResistorColorTest.testBlackColorCode" />
-        <item itemvalue="JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram" />
       </list>
     </recent_temporary>
   </component>
