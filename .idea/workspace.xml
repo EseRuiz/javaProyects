@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
+    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <change afterPath="$PROJECT_DIR$/Lists/src/HandshakeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/HandshakeCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/Signal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -72,6 +79,8 @@
     "JUnit.DnDCharacterTest.executor": "Run",
     "JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores.executor": "Run",
     "JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor": "Run",
+    "JUnit.HandshakeCalculatorTest.executor": "Run",
+    "JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink.executor": "Run",
     "JUnit.PangramCheckerTest.executor": "Run",
     "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
     "JUnit.PopCountTest.executor": "Run",
@@ -99,7 +108,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores">
+  <component name="RunManager">
     <configuration name="DnDCharacterTest.test4DiceWereUsedForRollingScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
@@ -120,11 +129,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResistorColorTest.testBlackColorCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HandshakeCalculatorTest.testThatInput1YieldsAWink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lists" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ResistorColorTest" />
-      <option name="METHOD_NAME" value="testBlackColorCode" />
+      <option name="MAIN_CLASS_NAME" value="HandshakeCalculatorTest" />
+      <option name="METHOD_NAME" value="testThatInput1YieldsAWink" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink" />
         <item itemvalue="JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores" />
         <item itemvalue="JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" />
         <item itemvalue="JUnit.ResistorColorTest.testColors" />
         <item itemvalue="JUnit.ResistorColorTest.testWhiteColorCode" />
-        <item itemvalue="JUnit.ResistorColorTest.testBlackColorCode" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710885421822</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <option name="closed" value="true" />
+      <created>1710885733643</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710885733643</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
