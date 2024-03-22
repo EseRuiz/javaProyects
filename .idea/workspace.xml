@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <change afterPath="$PROJECT_DIR$/strings/src/WordProblemSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/WordProblemSolverTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,6 +92,30 @@
     "JUnit.SpaceAgeTest.ageOnSaturn.executor": "Debug",
     "JUnit.SpaceAgeTest.executor": "Run",
     "JUnit.TestArmstrongNumbers.executor": "Run",
+    "JUnit.WordProblemSolverTest.executor": "Run",
+    "JUnit.WordProblemSolverTest.testAdditionThenMultiplication.executor": "Run",
+    "JUnit.WordProblemSolverTest.testAdditionThenSubtraction.executor": "Run",
+    "JUnit.WordProblemSolverTest.testJustANumber.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMissingAnOperand.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleAdditions.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleDivisions.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleMultiplications.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleSubtractions.executor": "Run",
+    "JUnit.WordProblemSolverTest.testNoOperandsOrOperators.executor": "Run",
+    "JUnit.WordProblemSolverTest.testNonMathQuestion.executor": "Run",
+    "JUnit.WordProblemSolverTest.testPostfixNotation.executor": "Run",
+    "JUnit.WordProblemSolverTest.testPrefixNotation.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAddition1.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAddition2.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAdditionOfLargeNumbers.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAdditionWithNegativeNumbers.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleDivision.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleMultiplication.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleSubtraction.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSubtractionThenAddition.executor": "Run",
+    "JUnit.WordProblemSolverTest.testTwoNumbersAfterOperation.executor": "Run",
+    "JUnit.WordProblemSolverTest.testTwoOperationsInARow.executor": "Run",
+    "JUnit.WordProblemSolverTest.testUnknownOperation.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -96,7 +123,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama__strings",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
@@ -105,51 +132,51 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="DnDCharacterTest.test4DiceWereUsedForRollingScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordProblemSolverTest.testMultipleDivisions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
-      <option name="METHOD_NAME" value="test4DiceWereUsedForRollingScores" />
+      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
+      <option name="METHOD_NAME" value="testMultipleDivisions" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WordProblemSolverTest.testNoOperandsOrOperators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
-      <option name="METHOD_NAME" value="testEachAbilityIsOnlyCalculatedOnce" />
+      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
+      <option name="METHOD_NAME" value="testNoOperandsOrOperators" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandshakeCalculatorTest.testThatInput1YieldsAWink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lists" />
+    <configuration name="WordProblemSolverTest.testPrefixNotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HandshakeCalculatorTest" />
-      <option name="METHOD_NAME" value="testThatInput1YieldsAWink" />
+      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
+      <option name="METHOD_NAME" value="testPrefixNotation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResistorColorTest.testColors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lists" />
+    <configuration name="WordProblemSolverTest.testTwoNumbersAfterOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ResistorColorTest" />
-      <option name="METHOD_NAME" value="testColors" />
+      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
+      <option name="METHOD_NAME" value="testTwoNumbersAfterOperation" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResistorColorTest.testWhiteColorCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lists" />
+    <configuration name="WordProblemSolverTest.testTwoOperationsInARow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ResistorColorTest" />
-      <option name="METHOD_NAME" value="testWhiteColorCode" />
+      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
+      <option name="METHOD_NAME" value="testTwoOperationsInARow" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink" />
-        <item itemvalue="JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores" />
-        <item itemvalue="JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce" />
-        <item itemvalue="JUnit.ResistorColorTest.testColors" />
-        <item itemvalue="JUnit.ResistorColorTest.testWhiteColorCode" />
+        <item itemvalue="JUnit.WordProblemSolverTest.testMultipleDivisions" />
+        <item itemvalue="JUnit.WordProblemSolverTest.testPrefixNotation" />
+        <item itemvalue="JUnit.WordProblemSolverTest.testTwoNumbersAfterOperation" />
+        <item itemvalue="JUnit.WordProblemSolverTest.testTwoOperationsInARow" />
+        <item itemvalue="JUnit.WordProblemSolverTest.testNoOperandsOrOperators" />
       </list>
     </recent_temporary>
   </component>
