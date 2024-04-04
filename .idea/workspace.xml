@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/strings/src/WordProblemSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/src/WordProblemSolverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +118,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "rama__strings",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
@@ -304,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710885733643</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <option name="closed" value="true" />
+      <created>1711067273017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711067273017</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,6 +363,7 @@
     <MESSAGE value="se agregan ejercicios numbers" />
     <MESSAGE value="se agregan ejercicios cambios" />
     <MESSAGE value="no se" />
+    <MESSAGE value="Feat:&lt;condiciones operaciones aritmeticas&gt;" />
     <MESSAGE value="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
     <option name="LAST_COMMIT_MESSAGE" value="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
   </component>
