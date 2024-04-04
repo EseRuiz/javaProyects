@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
-      <change afterPath="$PROJECT_DIR$/numbers/src/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/SquareRootTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/IsogramChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/IsogramCheckerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lists/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lists/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lists/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +81,9 @@
     "JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor": "Run",
     "JUnit.HandshakeCalculatorTest.executor": "Run",
     "JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink.executor": "Run",
+    "JUnit.IsogramCheckerTest.executor": "Run",
+    "JUnit.IsogramCheckerTest.testDuplicatedCharacterAndTwoHyphens.executor": "Run",
+    "JUnit.IsogramCheckerTest.testEmptyString.executor": "Run",
     "JUnit.PangramCheckerTest.executor": "Run",
     "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
     "JUnit.PopCountTest.executor": "Run",
@@ -132,21 +137,21 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="DnDCharacterTest.test4DiceWereUsedForRollingScores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="IsogramCheckerTest.testDuplicatedCharacterAndTwoHyphens" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testMultipleDivisions" />
+      <option name="MAIN_CLASS_NAME" value="IsogramCheckerTest" />
+      <option name="METHOD_NAME" value="testDuplicatedCharacterAndTwoHyphens" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordProblemSolverTest.testNoOperandsOrOperators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="IsogramCheckerTest.testEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testNoOperandsOrOperators" />
+      <option name="MAIN_CLASS_NAME" value="IsogramCheckerTest" />
+      <option name="METHOD_NAME" value="testEmptyString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -184,10 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IsogramCheckerTest.testDuplicatedCharacterAndTwoHyphens" />
+        <item itemvalue="JUnit.IsogramCheckerTest.testEmptyString" />
         <item itemvalue="JUnit.WordProblemSolverTest.testPrefixNotation" />
         <item itemvalue="JUnit.WordProblemSolverTest.testTwoNumbersAfterOperation" />
         <item itemvalue="JUnit.WordProblemSolverTest.testTwoOperationsInARow" />
-        <item itemvalue="JUnit.WordProblemSolverTest.testNoOperandsOrOperators" />
       </list>
     </recent_temporary>
   </component>
