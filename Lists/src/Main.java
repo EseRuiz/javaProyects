@@ -4,7 +4,7 @@ import java.util.Arrays;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        HandshakeCalculator hand = new HandshakeCalculator();
-        String hi = hand.calculateHandshake(17).toString();
+        DiamondPrinter diamon = new DiamondPrinter();
+        System.out.println(diamon.printToList('D'));
     }
 }
