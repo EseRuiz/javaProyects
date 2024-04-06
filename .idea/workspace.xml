@@ -77,8 +77,34 @@
     "JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor": "Run",
     "JUnit.HandshakeCalculatorTest.executor": "Run",
     "JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink.executor": "Run",
+    "JUnit.IsogramCheckerTest.executor": "Run",
+    "JUnit.IsogramCheckerTest.testDuplicatedCharacterAndTwoHyphens.executor": "Run",
+    "JUnit.IsogramCheckerTest.testEmptyString.executor": "Run",
     "JUnit.PangramCheckerTest.executor": "Run",
     "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testAWholePhrase.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testQuAndAPrecedingConsonantTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testQuTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testSchTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testThTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithA.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithE.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithI.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithK.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithO.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithP.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithQWithoutAFollowingU.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithU.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithVowelAndFollowedByQu.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithX.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testXrTreatedLikeAVowelAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYtTreatedLikeAVowelAtTheBeginningOfAWord.executor": "Run",
     "JUnit.PopCountTest.executor": "Run",
     "JUnit.ResistorColorDuoTest.executor": "Run",
     "JUnit.ResistorColorTest.executor": "Run",
@@ -88,6 +114,7 @@
     "JUnit.ResistorColorTrioTest.executor": "Run",
     "JUnit.SpaceAgeTest.ageOnSaturn.executor": "Debug",
     "JUnit.SpaceAgeTest.executor": "Run",
+    "JUnit.SquareRootTest.executor": "Run",
     "JUnit.TestArmstrongNumbers.executor": "Run",
     "JUnit.WordProblemSolverTest.executor": "Run",
     "JUnit.WordProblemSolverTest.testAdditionThenMultiplication.executor": "Run",
@@ -120,60 +147,63 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "rama__strings",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/Lists/src/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="WordProblemSolverTest.testMultipleDivisions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="PigLatinTranslatorTest.testAWholePhrase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testMultipleDivisions" />
+      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
+      <option name="METHOD_NAME" value="testAWholePhrase" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordProblemSolverTest.testNoOperandsOrOperators" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testNoOperandsOrOperators" />
+      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
+      <option name="METHOD_NAME" value="testChTreatedLikeAConsonantAtTheBeginningOfAWord" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordProblemSolverTest.testPrefixNotation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testPrefixNotation" />
+      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
+      <option name="METHOD_NAME" value="testThrTreatedLikeAConsonantAtTheBeginningOfAWord" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordProblemSolverTest.testTwoNumbersAfterOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testTwoNumbersAfterOperation" />
+      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
+      <option name="METHOD_NAME" value="testYAsSecondLetterInTwoLetterWord" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordProblemSolverTest.testTwoOperationsInARow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="if_else_statement" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordProblemSolverTest" />
-      <option name="METHOD_NAME" value="testTwoOperationsInARow" />
+      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
+      <option name="METHOD_NAME" value="testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WordProblemSolverTest.testMultipleDivisions" />
-        <item itemvalue="JUnit.WordProblemSolverTest.testPrefixNotation" />
-        <item itemvalue="JUnit.WordProblemSolverTest.testTwoNumbersAfterOperation" />
-        <item itemvalue="JUnit.WordProblemSolverTest.testTwoOperationsInARow" />
-        <item itemvalue="JUnit.WordProblemSolverTest.testNoOperandsOrOperators" />
+        <item itemvalue="JUnit.PigLatinTranslatorTest.testAWholePhrase" />
+        <item itemvalue="JUnit.PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord" />
+        <item itemvalue="JUnit.PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord" />
+        <item itemvalue="JUnit.PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord" />
+        <item itemvalue="JUnit.PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +331,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710885733643</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <option name="closed" value="true" />
+      <created>1711067273017</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711067273017</updated>
+    </task>
+    <task id="LOCAL-00014" summary="creacion interfaces implementacion&#10;Comparable&lt;T&gt;">
+      <option name="closed" value="true" />
+      <created>1712235444152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712235444152</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,6 +403,7 @@
     <MESSAGE value="se agregan ejercicios numbers" />
     <MESSAGE value="se agregan ejercicios cambios" />
     <MESSAGE value="no se" />
+    <MESSAGE value="Feat:&lt;condiciones operaciones aritmeticas&gt;" />
     <MESSAGE value="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
     <option name="LAST_COMMIT_MESSAGE" value="creacion interfaces implementacion&#10;Comparable&lt;T&gt;" />
   </component>
