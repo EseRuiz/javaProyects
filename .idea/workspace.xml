@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/strings/src/RunLengthEncoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/RunLengthEncodingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,151 +61,157 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;JUnit.AnagramTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArmstrongNumbersTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BobTest.otherWhiteSpace.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DartsTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DartsTest.onTheOuterCircle.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.DifferenceOfSquaresCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DnDCharacterTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.HandshakeCalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.IsogramCheckerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.IsogramCheckerTest.testDuplicatedCharacterAndTwoHyphens.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.IsogramCheckerTest.testEmptyString.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PangramCheckerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testAWholePhrase.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testQuAndAPrecedingConsonantTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testQuTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testSchTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testThTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithA.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithE.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithI.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithK.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithO.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithP.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithQWithoutAFollowingU.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithU.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithVowelAndFollowedByQu.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testWordBeginningWithX.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testXrTreatedLikeAVowelAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testYTreatedLikeAConsonantAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PigLatinTranslatorTest.testYtTreatedLikeAVowelAtTheBeginningOfAWord.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PopCountTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorDuoTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.testBlackColorCode.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.testColors.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTest.testWhiteColorCode.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ResistorColorTrioTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SpaceAgeTest.ageOnSaturn.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.SpaceAgeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SquareRootTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestArmstrongNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testAdditionThenMultiplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testAdditionThenSubtraction.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testJustANumber.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testMissingAnOperand.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testMultipleAdditions.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testMultipleDivisions.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testMultipleMultiplications.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testMultipleSubtractions.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testNoOperandsOrOperators.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testNonMathQuestion.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testPostfixNotation.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testPrefixNotation.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleAddition1.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleAddition2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleAdditionOfLargeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleAdditionWithNegativeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleDivision.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleMultiplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSingleSubtraction.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testSubtractionThenAddition.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testTwoNumbersAfterOperation.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testTwoOperationsInARow.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WordProblemSolverTest.testUnknownOperation.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.ResistorColorTest.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Stephen/IdeaProjects/javaProyects/Lists/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.AnagramTest.executor": "Run",
+    "JUnit.ArmstrongNumbersTest.executor": "Run",
+    "JUnit.BobTest.executor": "Run",
+    "JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor": "Run",
+    "JUnit.BobTest.otherWhiteSpace.executor": "Run",
+    "JUnit.DartsTest.executor": "Run",
+    "JUnit.DartsTest.onTheOuterCircle.executor": "Debug",
+    "JUnit.DifferenceOfSquaresCalculatorTest.executor": "Run",
+    "JUnit.DifferenceOfSquaresCalculatorTest.testSquareOfSumUpToOne.executor": "Run",
+    "JUnit.DnDCharacterTest.executor": "Run",
+    "JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores.executor": "Run",
+    "JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor": "Run",
+    "JUnit.HandshakeCalculatorTest.executor": "Run",
+    "JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink.executor": "Run",
+    "JUnit.IsogramCheckerTest.executor": "Run",
+    "JUnit.IsogramCheckerTest.testDuplicatedCharacterAndTwoHyphens.executor": "Run",
+    "JUnit.IsogramCheckerTest.testEmptyString.executor": "Run",
+    "JUnit.PangramCheckerTest.executor": "Run",
+    "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testAWholePhrase.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testQuAndAPrecedingConsonantTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testQuTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testSchTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testThTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithA.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithE.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithI.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithK.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithO.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithP.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithQWithoutAFollowingU.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithU.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithVowelAndFollowedByQu.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testWordBeginningWithX.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testXrTreatedLikeAVowelAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster.executor": "Run",
+    "JUnit.PigLatinTranslatorTest.testYtTreatedLikeAVowelAtTheBeginningOfAWord.executor": "Run",
+    "JUnit.PopCountTest.executor": "Run",
+    "JUnit.ResistorColorDuoTest.executor": "Run",
+    "JUnit.ResistorColorTest.executor": "Run",
+    "JUnit.ResistorColorTest.testBlackColorCode.executor": "Run",
+    "JUnit.ResistorColorTest.testColors.executor": "Run",
+    "JUnit.ResistorColorTest.testWhiteColorCode.executor": "Run",
+    "JUnit.ResistorColorTrioTest.executor": "Run",
+    "JUnit.RunLengthEncodingTest.decodeWithWhitespaceValues.executor": "Run",
+    "JUnit.RunLengthEncodingTest.encodeEmpty.executor": "Run",
+    "JUnit.RunLengthEncodingTest.encodeThenDecode.executor": "Run",
+    "JUnit.RunLengthEncodingTest.encodeWithNoSingleValues.executor": "Run",
+    "JUnit.RunLengthEncodingTest.encodeWithOnlySingleValues.executor": "Run",
+    "JUnit.RunLengthEncodingTest.executor": "Run",
+    "JUnit.SpaceAgeTest.ageOnSaturn.executor": "Debug",
+    "JUnit.SpaceAgeTest.executor": "Run",
+    "JUnit.SquareRootTest.executor": "Run",
+    "JUnit.TestArmstrongNumbers.executor": "Run",
+    "JUnit.WordProblemSolverTest.executor": "Run",
+    "JUnit.WordProblemSolverTest.testAdditionThenMultiplication.executor": "Run",
+    "JUnit.WordProblemSolverTest.testAdditionThenSubtraction.executor": "Run",
+    "JUnit.WordProblemSolverTest.testJustANumber.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMissingAnOperand.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleAdditions.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleDivisions.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleMultiplications.executor": "Run",
+    "JUnit.WordProblemSolverTest.testMultipleSubtractions.executor": "Run",
+    "JUnit.WordProblemSolverTest.testNoOperandsOrOperators.executor": "Run",
+    "JUnit.WordProblemSolverTest.testNonMathQuestion.executor": "Run",
+    "JUnit.WordProblemSolverTest.testPostfixNotation.executor": "Run",
+    "JUnit.WordProblemSolverTest.testPrefixNotation.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAddition1.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAddition2.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAdditionOfLargeNumbers.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleAdditionWithNegativeNumbers.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleDivision.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleMultiplication.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSingleSubtraction.executor": "Run",
+    "JUnit.WordProblemSolverTest.testSubtractionThenAddition.executor": "Run",
+    "JUnit.WordProblemSolverTest.testTwoNumbersAfterOperation.executor": "Run",
+    "JUnit.WordProblemSolverTest.testTwoOperationsInARow.executor": "Run",
+    "JUnit.WordProblemSolverTest.testUnknownOperation.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ResistorColorTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Stephen/IdeaProjects/javaProyects/Lists/src/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.PigLatinTranslatorTest.testAWholePhrase">
-    <configuration name="PigLatinTranslatorTest.testAWholePhrase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="if_else_statement" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="RunLengthEncodingTest.decodeWithWhitespaceValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
-      <option name="METHOD_NAME" value="testAWholePhrase" />
+      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="decodeWithWhitespaceValues" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="if_else_statement" />
+    <configuration name="RunLengthEncodingTest.encodeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
-      <option name="METHOD_NAME" value="testChTreatedLikeAConsonantAtTheBeginningOfAWord" />
+      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="encodeEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="if_else_statement" />
+    <configuration name="RunLengthEncodingTest.encodeThenDecode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
-      <option name="METHOD_NAME" value="testThrTreatedLikeAConsonantAtTheBeginningOfAWord" />
+      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="encodeThenDecode" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="if_else_statement" />
+    <configuration name="RunLengthEncodingTest.encodeWithNoSingleValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
-      <option name="METHOD_NAME" value="testYAsSecondLetterInTwoLetterWord" />
+      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="encodeWithNoSingleValues" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="if_else_statement" />
+    <configuration name="RunLengthEncodingTest.encodeWithOnlySingleValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PigLatinTranslatorTest" />
-      <option name="METHOD_NAME" value="testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" />
+      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
+      <option name="METHOD_NAME" value="encodeWithOnlySingleValues" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PigLatinTranslatorTest.testAWholePhrase" />
-        <item itemvalue="JUnit.PigLatinTranslatorTest.testThrTreatedLikeAConsonantAtTheBeginningOfAWord" />
-        <item itemvalue="JUnit.PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord" />
-        <item itemvalue="JUnit.PigLatinTranslatorTest.testYAsSecondLetterInTwoLetterWord" />
-        <item itemvalue="JUnit.PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster" />
+        <item itemvalue="JUnit.RunLengthEncodingTest.encodeWithNoSingleValues" />
+        <item itemvalue="JUnit.RunLengthEncodingTest.encodeWithOnlySingleValues" />
+        <item itemvalue="JUnit.RunLengthEncodingTest.encodeEmpty" />
+        <item itemvalue="JUnit.RunLengthEncodingTest.decodeWithWhitespaceValues" />
+        <item itemvalue="JUnit.RunLengthEncodingTest.encodeThenDecode" />
       </list>
     </recent_temporary>
   </component>
@@ -355,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712625646971</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="test">
+      <option name="closed" value="true" />
+      <created>1712959423643</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712959423643</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
