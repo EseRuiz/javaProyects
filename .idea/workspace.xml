@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/numbers/src/PrimeFactorsCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/PrimeFactorsCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/Acronym.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/AcronymTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +29,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -65,6 +66,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.AcronymTest.lowercaseWords.executor": "Run",
     "JUnit.AnagramTest.executor": "Run",
     "JUnit.ArmstrongNumbersTest.executor": "Run",
     "JUnit.BobTest.executor": "Run",
@@ -163,7 +165,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama__strings",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
@@ -175,6 +177,16 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="AcronymTest.lowercaseWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AcronymTest" />
+      <option name="METHOD_NAME" value="lowercaseWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeFactorsCalculatorTest.testNoFactors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
@@ -215,23 +227,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeriesTest.slicesOfTwoOverlap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
-      <option name="METHOD_NAME" value="slicesOfTwoOverlap" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AcronymTest.lowercaseWords" />
         <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testPrimeNumber" />
         <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testNoFactors" />
         <item itemvalue="JUnit.SeriesTest.slicesOfLongSeries" />
         <item itemvalue="JUnit.SeriesTest.slicesIncludeDuplicates" />
-        <item itemvalue="JUnit.SeriesTest.slicesOfTwoOverlap" />
       </list>
     </recent_temporary>
   </component>
