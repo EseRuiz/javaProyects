@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/strings/src/RunLengthEncoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/src/RunLengthEncodingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/SeriesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,6 +120,11 @@
     "JUnit.RunLengthEncodingTest.encodeWithNoSingleValues.executor": "Run",
     "JUnit.RunLengthEncodingTest.encodeWithOnlySingleValues.executor": "Run",
     "JUnit.RunLengthEncodingTest.executor": "Run",
+    "JUnit.SeriesTest.slicesIncludeDuplicates.executor": "Run",
+    "JUnit.SeriesTest.slicesOfLongSeries.executor": "Run",
+    "JUnit.SeriesTest.slicesOfOneFromTwo.executor": "Run",
+    "JUnit.SeriesTest.slicesOfTwo.executor": "Run",
+    "JUnit.SeriesTest.slicesOfTwoOverlap.executor": "Run",
     "JUnit.SpaceAgeTest.ageOnSaturn.executor": "Debug",
     "JUnit.SpaceAgeTest.executor": "Run",
     "JUnit.SquareRootTest.executor": "Run",
@@ -167,51 +172,51 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="RunLengthEncodingTest.decodeWithWhitespaceValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="SeriesTest.slicesIncludeDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
-      <option name="METHOD_NAME" value="decodeWithWhitespaceValues" />
+      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
+      <option name="METHOD_NAME" value="slicesIncludeDuplicates" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLengthEncodingTest.encodeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="SeriesTest.slicesOfLongSeries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
-      <option name="METHOD_NAME" value="encodeEmpty" />
+      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
+      <option name="METHOD_NAME" value="slicesOfLongSeries" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLengthEncodingTest.encodeThenDecode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="SeriesTest.slicesOfOneFromTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
-      <option name="METHOD_NAME" value="encodeThenDecode" />
+      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
+      <option name="METHOD_NAME" value="slicesOfOneFromTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLengthEncodingTest.encodeWithNoSingleValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="SeriesTest.slicesOfTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
-      <option name="METHOD_NAME" value="encodeWithNoSingleValues" />
+      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
+      <option name="METHOD_NAME" value="slicesOfTwo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunLengthEncodingTest.encodeWithOnlySingleValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="SeriesTest.slicesOfTwoOverlap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RunLengthEncodingTest" />
-      <option name="METHOD_NAME" value="encodeWithOnlySingleValues" />
+      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
+      <option name="METHOD_NAME" value="slicesOfTwoOverlap" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RunLengthEncodingTest.encodeWithNoSingleValues" />
-        <item itemvalue="JUnit.RunLengthEncodingTest.encodeWithOnlySingleValues" />
-        <item itemvalue="JUnit.RunLengthEncodingTest.encodeEmpty" />
-        <item itemvalue="JUnit.RunLengthEncodingTest.decodeWithWhitespaceValues" />
-        <item itemvalue="JUnit.RunLengthEncodingTest.encodeThenDecode" />
+        <item itemvalue="JUnit.SeriesTest.slicesOfLongSeries" />
+        <item itemvalue="JUnit.SeriesTest.slicesIncludeDuplicates" />
+        <item itemvalue="JUnit.SeriesTest.slicesOfTwoOverlap" />
+        <item itemvalue="JUnit.SeriesTest.slicesOfTwo" />
+        <item itemvalue="JUnit.SeriesTest.slicesOfOneFromTwo" />
       </list>
     </recent_temporary>
   </component>
