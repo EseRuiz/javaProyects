@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/numbers/src/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/SeriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/PrimeFactorsCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/PrimeFactorsCalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +108,8 @@
     "JUnit.PigLatinTranslatorTest.testYTreatedLikeAVowelAtTheEndOfAConsonantCluster.executor": "Run",
     "JUnit.PigLatinTranslatorTest.testYtTreatedLikeAVowelAtTheBeginningOfAWord.executor": "Run",
     "JUnit.PopCountTest.executor": "Run",
+    "JUnit.PrimeFactorsCalculatorTest.testNoFactors.executor": "Run",
+    "JUnit.PrimeFactorsCalculatorTest.testPrimeNumber.executor": "Run",
     "JUnit.ResistorColorDuoTest.executor": "Run",
     "JUnit.ResistorColorTest.executor": "Run",
     "JUnit.ResistorColorTest.testBlackColorCode.executor": "Run",
@@ -120,6 +122,7 @@
     "JUnit.RunLengthEncodingTest.encodeWithNoSingleValues.executor": "Run",
     "JUnit.RunLengthEncodingTest.encodeWithOnlySingleValues.executor": "Run",
     "JUnit.RunLengthEncodingTest.executor": "Run",
+    "JUnit.SeriesTest.executor": "Run",
     "JUnit.SeriesTest.slicesIncludeDuplicates.executor": "Run",
     "JUnit.SeriesTest.slicesOfLongSeries.executor": "Run",
     "JUnit.SeriesTest.slicesOfOneFromTwo.executor": "Run",
@@ -172,6 +175,26 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="PrimeFactorsCalculatorTest.testNoFactors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFactorsCalculatorTest" />
+      <option name="METHOD_NAME" value="testNoFactors" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFactorsCalculatorTest.testPrimeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFactorsCalculatorTest" />
+      <option name="METHOD_NAME" value="testPrimeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SeriesTest.slicesIncludeDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
@@ -192,26 +215,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeriesTest.slicesOfOneFromTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
-      <option name="METHOD_NAME" value="slicesOfOneFromTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeriesTest.slicesOfTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
-      <option name="METHOD_NAME" value="slicesOfTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SeriesTest.slicesOfTwoOverlap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
@@ -224,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testPrimeNumber" />
+        <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testNoFactors" />
         <item itemvalue="JUnit.SeriesTest.slicesOfLongSeries" />
         <item itemvalue="JUnit.SeriesTest.slicesIncludeDuplicates" />
         <item itemvalue="JUnit.SeriesTest.slicesOfTwoOverlap" />
-        <item itemvalue="JUnit.SeriesTest.slicesOfTwo" />
-        <item itemvalue="JUnit.SeriesTest.slicesOfOneFromTwo" />
       </list>
     </recent_temporary>
   </component>
