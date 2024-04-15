@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/strings/src/Acronym.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/src/AcronymTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/ProteinTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/ProteinTranslatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +66,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "true",
+    "JUnit.AcronymTest.executor": "Run",
     "JUnit.AcronymTest.lowercaseWords.executor": "Run",
     "JUnit.AnagramTest.executor": "Run",
     "JUnit.ArmstrongNumbersTest.executor": "Run",
@@ -112,6 +113,8 @@
     "JUnit.PopCountTest.executor": "Run",
     "JUnit.PrimeFactorsCalculatorTest.testNoFactors.executor": "Run",
     "JUnit.PrimeFactorsCalculatorTest.testPrimeNumber.executor": "Run",
+    "JUnit.ProteinTranslatorTest.executor": "Run",
+    "JUnit.ProteinTranslatorTest.testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon.executor": "Run",
     "JUnit.ResistorColorDuoTest.executor": "Run",
     "JUnit.ResistorColorTest.executor": "Run",
     "JUnit.ResistorColorTest.testBlackColorCode.executor": "Run",
@@ -165,7 +168,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "rama__strings",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
@@ -207,11 +210,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeriesTest.slicesIncludeDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
+    <configuration name="ProteinTranslatorTest.testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
-      <option name="METHOD_NAME" value="slicesIncludeDuplicates" />
+      <option name="MAIN_CLASS_NAME" value="ProteinTranslatorTest" />
+      <option name="METHOD_NAME" value="testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -229,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProteinTranslatorTest.testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" />
         <item itemvalue="JUnit.AcronymTest.lowercaseWords" />
         <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testPrimeNumber" />
         <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testNoFactors" />
         <item itemvalue="JUnit.SeriesTest.slicesOfLongSeries" />
-        <item itemvalue="JUnit.SeriesTest.slicesIncludeDuplicates" />
       </list>
     </recent_temporary>
   </component>
