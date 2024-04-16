@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lists/src/ProteinTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/ProteinTranslatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/Atbash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/AtbashTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,7 @@
     "JUnit.AcronymTest.lowercaseWords.executor": "Run",
     "JUnit.AnagramTest.executor": "Run",
     "JUnit.ArmstrongNumbersTest.executor": "Run",
+    "JUnit.AtbashTest.testEncodeNumbers.executor": "Run",
     "JUnit.BobTest.executor": "Run",
     "JUnit.BobTest.nonQuestionEndingWithWhiteSpace.executor": "Run",
     "JUnit.BobTest.otherWhiteSpace.executor": "Run",
@@ -190,6 +191,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AtbashTest.testEncodeNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AtbashTest" />
+      <option name="METHOD_NAME" value="testEncodeNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeFactorsCalculatorTest.testNoFactors" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="numbers" />
       <option name="PACKAGE_NAME" value="" />
@@ -220,23 +231,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeriesTest.slicesOfLongSeries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeriesTest" />
-      <option name="METHOD_NAME" value="slicesOfLongSeries" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AtbashTest.testEncodeNumbers" />
         <item itemvalue="JUnit.ProteinTranslatorTest.testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" />
         <item itemvalue="JUnit.AcronymTest.lowercaseWords" />
         <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testPrimeNumber" />
         <item itemvalue="JUnit.PrimeFactorsCalculatorTest.testNoFactors" />
-        <item itemvalue="JUnit.SeriesTest.slicesOfLongSeries" />
       </list>
     </recent_temporary>
   </component>
