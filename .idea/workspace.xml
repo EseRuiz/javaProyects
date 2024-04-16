@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/Lists/src/Atbash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists/src/AtbashTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/RotationalCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists/src/RotationalCipherTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +122,7 @@
     "JUnit.ResistorColorTest.testColors.executor": "Run",
     "JUnit.ResistorColorTest.testWhiteColorCode.executor": "Run",
     "JUnit.ResistorColorTrioTest.executor": "Run",
+    "JUnit.RotationalCipherTest.executor": "Run",
     "JUnit.RunLengthEncodingTest.decodeWithWhitespaceValues.executor": "Run",
     "JUnit.RunLengthEncodingTest.encodeEmpty.executor": "Run",
     "JUnit.RunLengthEncodingTest.encodeThenDecode.executor": "Run",
@@ -169,7 +170,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.ResistorColorTest.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "rama__strings",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
