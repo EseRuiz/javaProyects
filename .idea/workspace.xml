@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/strings/src/TwelveDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/src/TwelveDaysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/Gigasecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/GigasecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/numbers/Gigasecond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/numbers/GigasecondTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +83,7 @@
     "JUnit.DnDCharacterTest.executor": "Run",
     "JUnit.DnDCharacterTest.test4DiceWereUsedForRollingScores.executor": "Run",
     "JUnit.DnDCharacterTest.testEachAbilityIsOnlyCalculatedOnce.executor": "Run",
+    "JUnit.GigasecondTest.executor": "Run",
     "JUnit.HandshakeCalculatorTest.executor": "Run",
     "JUnit.HandshakeCalculatorTest.testThatInput1YieldsAWink.executor": "Run",
     "JUnit.IsogramCheckerTest.executor": "Run",
@@ -139,6 +142,7 @@
     "JUnit.SpaceAgeTest.executor": "Run",
     "JUnit.SquareRootTest.executor": "Run",
     "JUnit.TestArmstrongNumbers.executor": "Run",
+    "JUnit.TwelveDaysTest.executor": "Run",
     "JUnit.TwelveDaysTest.testFirstThreeVerses.executor": "Run",
     "JUnit.TwelveDaysTest.testSingWholeSong.executor": "Run",
     "JUnit.TwelveDaysTest.testVerseOne.executor": "Run",
