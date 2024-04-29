@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/strings/src/Proverb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/WordCountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,6 +148,8 @@
     "JUnit.TwelveDaysTest.testFirstThreeVerses.executor": "Run",
     "JUnit.TwelveDaysTest.testSingWholeSong.executor": "Run",
     "JUnit.TwelveDaysTest.testVerseOne.executor": "Run",
+    "JUnit.WordCountTest.executor": "Run",
+    "JUnit.WordCountTest.withApostrophes.executor": "Run",
     "JUnit.WordProblemSolverTest.executor": "Run",
     "JUnit.WordProblemSolverTest.testAdditionThenMultiplication.executor": "Run",
     "JUnit.WordProblemSolverTest.testAdditionThenSubtraction.executor": "Run",
@@ -190,26 +193,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="AtbashTest.testEncodeNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lists" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AtbashTest" />
-      <option name="METHOD_NAME" value="testEncodeNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProteinTranslatorTest.testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lists" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProteinTranslatorTest" />
-      <option name="METHOD_NAME" value="testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwelveDaysTest.testFirstThreeVerses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
@@ -240,13 +223,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordCountTest" />
+      <option name="METHOD_NAME" value="withApostrophes" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountTest.withApostrophes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordCountTest" />
+      <option name="METHOD_NAME" value="withApostrophes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordCountTest" />
+        <item itemvalue="JUnit.WordCountTest.withApostrophes" />
         <item itemvalue="JUnit.TwelveDaysTest.testSingWholeSong" />
         <item itemvalue="JUnit.TwelveDaysTest.testFirstThreeVerses" />
         <item itemvalue="JUnit.TwelveDaysTest.testVerseOne" />
-        <item itemvalue="JUnit.AtbashTest.testEncodeNumbers" />
-        <item itemvalue="JUnit.ProteinTranslatorTest.testIncompleteRnaSequenceCanTranslateIfValidUntilAStopCodon" />
       </list>
     </recent_temporary>
   </component>
