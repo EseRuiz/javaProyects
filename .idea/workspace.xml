@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/numbers/src/LuhnValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/LuhnValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/RobotTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/strings/WordCount.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +127,10 @@
     "JUnit.ResistorColorTest.testColors.executor": "Run",
     "JUnit.ResistorColorTest.testWhiteColorCode.executor": "Run",
     "JUnit.ResistorColorTrioTest.executor": "Run",
+    "JUnit.RobotTest.executor": "Run",
+    "JUnit.RobotTest.hasName.executor": "Run",
+    "JUnit.RobotTest.robotNamesAreUnique.executor": "Run",
+    "JUnit.RobotTest.sameRobotsHaveSameNames.executor": "Run",
     "JUnit.RomanNumeralsTest.executor": "Run",
     "JUnit.RotationalCipherTest.executor": "Run",
     "JUnit.RunLengthEncodingTest.decodeWithWhitespaceValues.executor": "Run",
@@ -206,21 +209,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwelveDaysTest.testFirstThreeVerses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RobotTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TwelveDaysTest" />
-      <option name="METHOD_NAME" value="testFirstThreeVerses" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="hasName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwelveDaysTest.testSingWholeSong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RobotTest.robotNamesAreUnique" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TwelveDaysTest" />
-      <option name="METHOD_NAME" value="testSingWholeSong" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="robotNamesAreUnique" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotTest.sameRobotsHaveSameNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="sameRobotsHaveSameNames" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -236,23 +249,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordCountTest.withApostrophes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordCountTest" />
-      <option name="METHOD_NAME" value="withApostrophes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RobotTest.robotNamesAreUnique" />
+        <item itemvalue="JUnit.RobotTest.sameRobotsHaveSameNames" />
+        <item itemvalue="JUnit.RobotTest.hasName" />
         <item itemvalue="JUnit.LuhnValidatorTest.testValidNumberWithAnOddNumberOfSpaces" />
         <item itemvalue="JUnit.WordCountTest" />
-        <item itemvalue="JUnit.WordCountTest.withApostrophes" />
-        <item itemvalue="JUnit.TwelveDaysTest.testSingWholeSong" />
-        <item itemvalue="JUnit.TwelveDaysTest.testFirstThreeVerses" />
       </list>
     </recent_temporary>
   </component>
