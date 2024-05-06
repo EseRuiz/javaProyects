@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/strings/src/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/src/RobotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers/src/PhoneNumberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +91,8 @@
     "JUnit.LuhnValidatorTest.testValidNumberWithAnOddNumberOfSpaces.executor": "Run",
     "JUnit.PangramCheckerTest.executor": "Run",
     "JUnit.PangramCheckerTest.perfectLowerCasePhraseIsPangram.executor": "Run",
+    "JUnit.PhoneNumberTest.executor": "Run",
+    "JUnit.PhoneNumberTest.invalidWhen9Digits.executor": "Run",
     "JUnit.PigLatinTranslatorTest.executor": "Run",
     "JUnit.PigLatinTranslatorTest.testAWholePhrase.executor": "Run",
     "JUnit.PigLatinTranslatorTest.testChTreatedLikeAConsonantAtTheBeginningOfAWord.executor": "Run",
@@ -209,6 +211,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneNumberTest.invalidWhen9Digits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numbers" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberTest" />
+      <option name="METHOD_NAME" value="invalidWhen9Digits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RobotTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
@@ -239,23 +251,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WordCountTest" />
-      <option name="METHOD_NAME" value="withApostrophes" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhoneNumberTest.invalidWhen9Digits" />
         <item itemvalue="JUnit.RobotTest.robotNamesAreUnique" />
         <item itemvalue="JUnit.RobotTest.sameRobotsHaveSameNames" />
         <item itemvalue="JUnit.RobotTest.hasName" />
         <item itemvalue="JUnit.LuhnValidatorTest.testValidNumberWithAnOddNumberOfSpaces" />
-        <item itemvalue="JUnit.WordCountTest" />
       </list>
     </recent_temporary>
   </component>
