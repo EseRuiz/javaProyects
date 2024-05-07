@@ -37,7 +37,7 @@ public class Transpose {
                 res.append('\n');
             }
 
-            StringBuilder result = new StringBuilder(); // StringBuilder para almacenar el resultado
+            StringBuilder result = new StringBuilder();
 
             for (String line : res.toString().split("\\n")) {
                 for (int i = 0; i < line.length(); i++) {
@@ -56,7 +56,6 @@ public class Transpose {
             if (result.length() > 0 && result.charAt(result.length() - 1) == '_') {
                 result.deleteCharAt(result.length() - 1);
             }
-            System.out.println("result = " + result);
             if (result.length() > 0 && result.charAt(result.length() - 1) == '_') {
                 result = new StringBuilder(result.toString().replaceAll("_", ""));
             }else{
