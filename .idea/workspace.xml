@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/numbers/src/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numbers/src/PhoneNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/Transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/TransposeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,6 +152,14 @@
     "JUnit.SpaceAgeTest.executor": "Run",
     "JUnit.SquareRootTest.executor": "Run",
     "JUnit.TestArmstrongNumbers.executor": "Run",
+    "JUnit.TransposeTest.emptyString.executor": "Run",
+    "JUnit.TransposeTest.executor": "Run",
+    "JUnit.TransposeTest.jaggedTriangle.executor": "Run",
+    "JUnit.TransposeTest.mixedLineLength.executor": "Run",
+    "JUnit.TransposeTest.secondLineLongerThanFirstLine.executor": "Run",
+    "JUnit.TransposeTest.simple.executor": "Run",
+    "JUnit.TransposeTest.twoCharactersInAColumn.executor": "Run",
+    "JUnit.TransposeTest.twoCharactersInARow.executor": "Run",
     "JUnit.TwelveDaysTest.executor": "Run",
     "JUnit.TwelveDaysTest.testFirstThreeVerses.executor": "Run",
     "JUnit.TwelveDaysTest.testSingWholeSong.executor": "Run",
@@ -201,51 +209,51 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="LuhnValidatorTest.testValidNumberWithAnOddNumberOfSpaces" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LuhnValidatorTest" />
-      <option name="METHOD_NAME" value="testValidNumberWithAnOddNumberOfSpaces" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneNumberTest.invalidWhen9Digits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="numbers" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PhoneNumberTest" />
-      <option name="METHOD_NAME" value="invalidWhen9Digits" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RobotTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeTest.jaggedTriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RobotTest" />
-      <option name="METHOD_NAME" value="hasName" />
+      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
+      <option name="METHOD_NAME" value="jaggedTriangle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotTest.robotNamesAreUnique" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeTest.mixedLineLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RobotTest" />
-      <option name="METHOD_NAME" value="robotNamesAreUnique" />
+      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
+      <option name="METHOD_NAME" value="mixedLineLength" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotTest.sameRobotsHaveSameNames" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeTest.secondLineLongerThanFirstLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RobotTest" />
-      <option name="METHOD_NAME" value="sameRobotsHaveSameNames" />
+      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
+      <option name="METHOD_NAME" value="secondLineLongerThanFirstLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeTest.simple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
+      <option name="METHOD_NAME" value="simple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeTest.triangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
+      <option name="METHOD_NAME" value="triangle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -253,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PhoneNumberTest.invalidWhen9Digits" />
-        <item itemvalue="JUnit.RobotTest.robotNamesAreUnique" />
-        <item itemvalue="JUnit.RobotTest.sameRobotsHaveSameNames" />
-        <item itemvalue="JUnit.RobotTest.hasName" />
-        <item itemvalue="JUnit.LuhnValidatorTest.testValidNumberWithAnOddNumberOfSpaces" />
+        <item itemvalue="JUnit.TransposeTest.triangle" />
+        <item itemvalue="JUnit.TransposeTest.mixedLineLength" />
+        <item itemvalue="JUnit.TransposeTest.jaggedTriangle" />
+        <item itemvalue="JUnit.TransposeTest.secondLineLongerThanFirstLine" />
+        <item itemvalue="JUnit.TransposeTest.simple" />
       </list>
     </recent_temporary>
   </component>
