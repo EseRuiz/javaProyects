@@ -30,11 +30,11 @@ class Robot {
     }
 
     void turnLeft() {
-        this.initialOrientation = this.initialOrientation.retreat(this.initialOrientation);
+        this.initialOrientation = this.initialOrientation.retreat();
     }
 
     void turnRight() {
-        this.initialOrientation = this.initialOrientation.advance(this.initialOrientation);
+        this.initialOrientation = this.initialOrientation.advance();
     }
 
     void simulate(String instructions) {
