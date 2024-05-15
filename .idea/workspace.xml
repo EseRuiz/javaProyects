@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ecc278-4c59-4f2c-ba89-2a634c8bf5e2" name="Changes" comment="test">
-      <change beforePath="$PROJECT_DIR$/strings/src/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/src/Transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/src/GridPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/src/Orientation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/src/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chars/src/RobotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chars/chars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chars/chars.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,8 +132,23 @@
     "JUnit.ResistorColorTest.testColors.executor": "Run",
     "JUnit.ResistorColorTest.testWhiteColorCode.executor": "Run",
     "JUnit.ResistorColorTrioTest.executor": "Run",
+    "JUnit.RobotTest.atNegativePositionFacingSouth.executor": "Run",
+    "JUnit.RobotTest.atOriginFacingNorth.executor": "Run",
+    "JUnit.RobotTest.changesEastToNorth.executor": "Run",
+    "JUnit.RobotTest.changesEastToSouth.executor": "Run",
+    "JUnit.RobotTest.changesNorthToEast.executor": "Run",
+    "JUnit.RobotTest.changesNorthToWest.executor": "Run",
+    "JUnit.RobotTest.changesSouthToEast.executor": "Run",
+    "JUnit.RobotTest.changesSouthToWest.executor": "Run",
+    "JUnit.RobotTest.changesWestToNorth.executor": "Run",
+    "JUnit.RobotTest.changesWestToSouth.executor": "Run",
     "JUnit.RobotTest.executor": "Run",
+    "JUnit.RobotTest.facingEastIncrementsX.executor": "Run",
+    "JUnit.RobotTest.facingNorthIncrementsY.executor": "Run",
+    "JUnit.RobotTest.facingSouthDecrementsY.executor": "Run",
+    "JUnit.RobotTest.facingWestDecrementsX.executor": "Run",
     "JUnit.RobotTest.hasName.executor": "Run",
+    "JUnit.RobotTest.movingEastAndNorthFromReadme.executor": "Run",
     "JUnit.RobotTest.robotNamesAreUnique.executor": "Run",
     "JUnit.RobotTest.sameRobotsHaveSameNames.executor": "Run",
     "JUnit.RomanNumeralsTest.executor": "Run",
@@ -208,51 +228,51 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="TransposeTest.jaggedTriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="RobotTest.facingEastIncrementsX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
-      <option name="METHOD_NAME" value="jaggedTriangle" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="facingEastIncrementsX" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeTest.mixedLineLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="RobotTest.facingNorthIncrementsY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
-      <option name="METHOD_NAME" value="mixedLineLength" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="facingNorthIncrementsY" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeTest.secondLineLongerThanFirstLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="RobotTest.facingSouthDecrementsY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
-      <option name="METHOD_NAME" value="secondLineLongerThanFirstLine" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="facingSouthDecrementsY" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeTest.simple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="RobotTest.facingWestDecrementsX" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
-      <option name="METHOD_NAME" value="simple" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="facingWestDecrementsX" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeTest.triangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
+    <configuration name="RobotTest.movingEastAndNorthFromReadme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chars" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TransposeTest" />
-      <option name="METHOD_NAME" value="triangle" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="movingEastAndNorthFromReadme" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TransposeTest.triangle" />
-        <item itemvalue="JUnit.TransposeTest.mixedLineLength" />
-        <item itemvalue="JUnit.TransposeTest.jaggedTriangle" />
-        <item itemvalue="JUnit.TransposeTest.secondLineLongerThanFirstLine" />
-        <item itemvalue="JUnit.TransposeTest.simple" />
+        <item itemvalue="JUnit.RobotTest.movingEastAndNorthFromReadme" />
+        <item itemvalue="JUnit.RobotTest.facingWestDecrementsX" />
+        <item itemvalue="JUnit.RobotTest.facingEastIncrementsX" />
+        <item itemvalue="JUnit.RobotTest.facingSouthDecrementsY" />
+        <item itemvalue="JUnit.RobotTest.facingNorthIncrementsY" />
       </list>
     </recent_temporary>
   </component>
